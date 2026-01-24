@@ -3,7 +3,7 @@ from simple_term_menu import TerminalMenu
 import os
 import json
 
-tprint("PrismLauncher-Auto-Offline-Bypass")
+tprint("Prism-Auto-Offline-Bypass")
 print("Что вы используете?")
 menu = TerminalMenu(['Linux', 'Linux(Flatpak)', 'MacOS'])
 selected_index = menu.show()
