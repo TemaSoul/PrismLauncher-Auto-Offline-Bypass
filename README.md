@@ -35,3 +35,4 @@ python main-script.py
 * Linux
 * Linux(Flatpak)
 * MacOS (не проверял)
+* Windows (не проверял)
