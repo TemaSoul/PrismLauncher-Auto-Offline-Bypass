@@ -33,4 +33,5 @@ python main-script.py
 
 # Какие системы потдерживаються?
 * Linux
+* Linux(Flatpak)
 * MacOS (не проверял)
