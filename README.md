@@ -10,6 +10,7 @@
 
 cd PrismLauncher-Auto-Offline-Bypass/
 python -m venv venv
+source venv/bin/activate (source venv/bin/activate.fish если shell fish)
 pip install -r requirements.txt
 python main-script.py
 ```
