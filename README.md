@@ -5,7 +5,7 @@
 ![Скриншот](./screenshots/2026-01-25_12-06.png) 
 
 # Важно!
-* Работает только на версии PrismLauncher - <=9.4 (ссылка на странице релиза версии [9.4](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.4))
+* Работает только на версии PrismLauncher - <=9.4 (ссылка на страницу релиза версии [9.4](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.4))
 
 # Перед установкой
 Если у вас есть какие-либо сохраненные учетные записи, выполнение этого скрипта приведет к их удалению!
